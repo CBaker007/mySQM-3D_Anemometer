@@ -6,10 +6,10 @@ BY: Christopher Baker (CBaker007 on GitHub)
 
 LICENSE: Creative Commons - Attribution-NonCommercial-ShareAlike (BY-NC-SA)
 
-A 3D printed Anemometer based on the design from mySQM+ DIY SQM Weather Station on Sourceforge.
+WHAT: A 3D printed Anemometer based on the design from mySQM+ DIY SQM Weather Station on Sourceforge.
 
-This is based on the design found here:
-https://sourceforge.net/projects/mysqmproesp32/files/Wind%20Speed%20Sensor%20Anemometer/mySQMPROESP-3DPRINTER/
+ATTRIBUTE:  This is a re-work of the design by Robert Brown found on SourceForge:
+            https://sourceforge.net/projects/mysqmproesp32/files/Wind%20Speed%20Sensor%20Anemometer/mySQMPROESP-3DPRINTER/
 
 These 3D printed parts are released into the public domain and also follow the copyright indicated in the 
 mySQM+ DIY Weather Station found on Sourceforge:
