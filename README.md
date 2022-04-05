@@ -16,6 +16,10 @@ mySQM+ DIY Weather Station found on Sourceforge:
     3. You cannot use these designs and code ideas to make your own controller and sell versions of those 
        to others"
 
+Due to non-commercial use, this isn't really public domain or CC0.  Therefore, I believe the correct 
+Creative Commons license, and what I am using for this repository, is 
+"Attribution-NonCommercial-ShareAlike", aka BY-NC-SA. (More info: https://creativecommons.org/)
+
 Coding for the Anemometer will be based on my code integrated into my existing DIY Weather Station, which will 
 be made available on my GitHub in the near future when integration is complete.  Should work fine with the 
 mySQM+ DIY SQM Weather Station code too as all critical dimensions remained the same on my re-work.
@@ -57,4 +61,29 @@ NOTES:
     TRYMAG Refrigerator Magnets 45 Pcs, Small Round Disc Fridge Magnets
     https://www.amazon.com/TRYMAG-Refrigerator-Multi-Use-Cylinder-Whiteboard/dp/B09MRMXMCW
  
+ 3D Printing NOTES
+ *  All Items printed with 5 walls, at 30% infill, using PETG.
+ *  Supports:
+    - "Base - Top" enabled for threads only, removed for outside overhangs.
+      Printed with threads on top.
+    - "Base - Bottom" enabled with supports removed for the outside overhang and 
+      inside sensor holder.  Be sure to flip so square base is down.
+    - "Hub - Arms" printed with cup opening facing down with supports.
+    - "Hub - Main" printed with supports and arm openenings down.
+    - "Hub - Top" and all "Hub - Spacers" printed without supports and widest part down.
+ *  "Hub - Spacer 1" goes in Hub at the top before the bearing.
+ *  "Hub - Spacer 2" goes in hub after the bearing, before the magnet holder (LeverArm).
+ *  "Hub - Spacer 3" goes between the screw threads of the "Base - Top" and "Base - Bottom"
+    with the wider part facing the "Base - Bottom".  Locks the bearing in place when
+    top and bottom tightened together.
+ *  The "LeverArmFinal" is taken from the original design.
+
+CAD Files (Again, shared as attribute required, non-commercial, share-alike.)
+ *  The Base (top and bottom) were done in Fusion 360 and the .f3d files are available
+    on this GitHub reposoitory if you wish to re-work things for your use.  
+    The .STL files for printing are already on respository.
+ *  The remaining files were developed in TinkerCAD.  You must create a free account
+    if you want to rework them there.  (They don't allow any CAD export and the
+    transfer to Fusion 360 isn't working for me.)  The .STL files for printing are
+    in this respository.
  
